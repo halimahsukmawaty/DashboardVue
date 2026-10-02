@@ -1,0 +1,177 @@
+[
+  {
+    "id": 1,
+    "judul": "Clean Code: A Handbook of Agile Software Craftsmanship",
+    "penulis": "Robert C. Martin",
+    "kategori": "Teknologi",
+    "stok": 12
+  },
+  {
+    "id": 2,
+    "judul": "Laskar Pelangi",
+    "penulis": "Andrea Hirata",
+    "kategori": "Fiksi",
+    "stok": 8
+  },
+  {
+    "id": 3,
+    "judul": "Bumi Manusia",
+    "penulis": "Pramoedya Ananta Toer",
+    "kategori": "Sastra",
+    "stok": 3
+  },
+  {
+    "id": 4,
+    "judul": "Sapiens: Riwayat Singkat Umat Manusia",
+    "penulis": "Yuval Noah Harari",
+    "kategori": "Sejarah",
+    "stok": 15
+  },
+  {
+    "id": 5,
+    "judul": "Atomic Habits: Perubahan Kecil yang Memberikan Hasil Luar Biasa",
+    "penulis": "James Clear",
+    "kategori": "Pengembangan Diri",
+    "stok": 20
+  },
+  {
+    "id": 6,
+    "judul": "The Pragmatic Programmer: Your Journey to Mastery",
+    "penulis": "David Thomas & Andrew Hunt",
+    "kategori": "Teknologi",
+    "stok": 4
+  },
+  {
+    "id": 7,
+    "judul": "Filosofi Teras",
+    "penulis": "Henry Manampiring",
+    "kategori": "Filsafat",
+    "stok": 2
+  },
+  {
+    "id": 8,
+    "judul": "Cosmos",
+    "penulis": "Carl Sagan",
+    "kategori": "Sains",
+    "stok": 6
+  },
+  {
+    "id": 9,
+    "judul": "Struktur Data dan Algoritma dengan Python",
+    "penulis": "Rinaldi Munir",
+    "kategori": "Teknologi",
+    "stok": 0
+  },
+  {
+    "id": 10,
+    "judul": "Cantik Itu Luka",
+    "penulis": "Eka Kurniawan",
+    "kategori": "Sastra",
+    "stok": 5
+  },
+  {
+    "id": 11,
+    "judul": "Rich Dad Poor Dad",
+    "penulis": "Robert T. Kiyosaki",
+    "kategori": "Bisnis",
+    "stok": 9
+  },
+  {
+    "id": 12,
+    "judul": "A Brief History of Time",
+    "penulis": "Stephen Hawking",
+    "kategori": "Sains",
+    "stok": 1
+  },
+  {
+    "id": 13,
+    "judul": "Laut Bercerita",
+    "penulis": "Leila S. Chudori",
+    "kategori": "Fiksi",
+    "stok": 7
+  },
+  {
+    "id": 14,
+    "judul": "Garis Waktu",
+    "penulis": "Fiersa Besari",
+    "kategori": "Sastra",
+    "stok": 0
+  },
+  {
+    "id": 15,
+    "judul": "Designing Data-Intensive Applications",
+    "penulis": "Martin Kleppmann",
+    "kategori": "Teknologi",
+    "stok": 3
+  },
+  {
+    "id": 16,
+    "judul": "The Psychology of Money",
+    "penulis": "Morgan Housel",
+    "kategori": "Bisnis",
+    "stok": 11
+  },
+  {
+    "id": 17,
+    "judul": "Negeri 5 Menara",
+    "penulis": "Ahmad Fuadi",
+    "kategori": "Fiksi",
+    "stok": 0
+  },
+  {
+    "id": 18,
+    "judul": "Dunia Sophie: Sebuah Novel Filsafat",
+    "penulis": "Jostein Gaarder",
+    "kategori": "Filsafat",
+    "stok": 4
+  },
+  {
+    "id": 19,
+    "judul": "Metode Penelitian Kuantitatif & Kualitatif",
+    "penulis": "Sugiyono",
+    "kategori": "Pendidikan",
+    "stok": 14
+  },
+  {
+    "id": 20,
+    "judul": "Belajar Pemrograman Web Modern dengan Vue 3 & FastAPI",
+    "penulis": "Ari Gunawan",
+    "kategori": "Teknologi",
+    "stok": 18
+  },
+  {
+    "id": 21,
+    "judul": "Nusantara: Sejarah Indonesia",
+    "penulis": "Bernard H.M. Vlekke",
+    "kategori": "Sejarah",
+    "stok": 2
+  },
+  {
+    "id": 22,
+    "judul": "Ronggeng Dukuh Paruk",
+    "penulis": "Ahmad Tohari",
+    "kategori": "Sastra",
+    "stok": 0
+  },
+  {
+    "id": 23,
+    "judul": "Start with Why",
+    "penulis": "Simon Sinek",
+    "kategori": "Bisnis",
+    "stok": 6
+  },
+  {
+    "id": 24,
+    "judul": "Fisika Modern",
+    "penulis": "Kenneth S. Krane",
+    "kategori": "Sains",
+    "stok": 1
+  },
+  {
+    "id": 25,
+    "judul": "Sebuah Seni untuk Bersikap Bodo Amat",
+    "penulis": "Mark Manson",
+    "kategori": "Pengembangan Diri",
+    "stok": 10
+  }
+]

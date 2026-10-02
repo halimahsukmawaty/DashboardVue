@@ -37,3 +37,15 @@ __screenshots__/
 
 # Vite
 *.timestamp-*-*.mjs
+
+# Python
+backend/venv/
+backend/__pycache__/
+backend-fastapi/venv/
+backend-fastapi/__pycache__/
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+
